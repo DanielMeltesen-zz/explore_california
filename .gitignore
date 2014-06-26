@@ -1,5 +1,6 @@
 # Comment
 temptext.txt
+junk2.txt
 *.zip
 *.gz
 log/*.log
